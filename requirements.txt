@@ -1,0 +1,5 @@
+icecream
+tabulate
+matplotlib
+tsplib95
+networkx
